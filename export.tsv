@@ -1,0 +1,12 @@
+"BIRD_ID"	"BIRD_NAME"	"BIRD_TYPE"	"BIRDSEED_PRICE"	"BIRD_COLOR"	"BIRD_SIZE"	"CAN_BE_DOMESTIC"	"AGGRESSION_RATING"	"ENVIRONMENT"
+1	"Robin"	"Songbird"	6.99	"Brown"	"Small"	0	2	
+2	"Cardinal"	"Songbird"	6.99	"Red"	"Small"	0	2	
+3	"Sparrow"	"Songbird"	6.99	"Brown"	"Small"	0	1	
+4	"Crow"	"Corvid"	7.99	"Black"	"Medium"	0	5	
+5	"Raven"	"Corvid"	7.99	"Black"	"Medium"	0	5	
+6	"Blue_Jay"	"Corvid"	6.99	"Blue"	"Medium"	0	7	
+7	"Goldfinch"	"Songbird"	6.99	"Yellow"	"Small"	0	2	
+8	"Dove"	"Columbiform"	6.99	"White"	"Small"	1	1	
+9	"Canada_Goose"	"Waterfowl"	11.99	"Brown"	"Large"	0	8	
+10	"Woodpecker"	"Perching"	7.99	"Black"	"Medium"	0	3	
+11	"Swan"	"Waterfowl"	11.99	"White"	"Large"	0	9	
